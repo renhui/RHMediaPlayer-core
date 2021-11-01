@@ -1,0 +1,4 @@
+rootProject.name = "RHMediaPlayer"
+include ':app', ":core"
+include ':component'
+include ':component'

@@ -18,6 +18,6 @@ allprojects {
 dependencies {
 	   implementation 'com.github.renhui:RHMediaPlayer-core:v0.1.2-beta'
 }
-
+```
 
 [![](https://jitpack.io/v/renhui/RHMediaPlayer-core.svg)](https://jitpack.io/#renhui/RHMediaPlayer-core)
